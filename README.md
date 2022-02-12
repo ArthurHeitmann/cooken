@@ -1,7 +1,7 @@
 ![alt text](https://cdn.discordapp.com/attachments/761130855052869632/761167946151362570/cooken_logo.png)
 
-[![codecov](https://codecov.io/gh/ArthuHeitmann/cooken/branch/server/graph/badge.svg?token=PU3RZQENHA)](https://codecov.io/gh/ArthuHeitmann/cooken)
-[![Integration Tests](https://github.com/ArthuHeitmann/cooken/actions/workflows/node.js.yml/badge.svg)](https://github.com/ArthuHeitmann/cooken/actions/workflows/node.js.yml)
+[![codecov](https://codecov.io/gh/ArthurHeitmann/cooken/branch/server/graph/badge.svg?token=3MWRX002NY)](https://codecov.io/gh/ArthurHeitmann/cooken)
+[![Integration Tests](https://github.com/ArthurHeitmann/cooken/actions/workflows/node.js.yml/badge.svg)](https://github.com/ArthurHeitmann/cooken/actions/workflows/node.js.yml)
 
 This is the backend of cooken.
 

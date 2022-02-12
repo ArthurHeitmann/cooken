@@ -2,7 +2,7 @@
 
 [![UI Integration Tests](https://github.com/kuscu0/cooken/actions/workflows/uiTests.yml/badge.svg)](https://github.com/kuscu0/cooken/actions/workflows/uiTests.yml)
 
-This is the frontend of cooken.
+This is the react frontend of cooken.
 
 Quick navigation:
 

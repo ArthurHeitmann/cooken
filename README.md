@@ -5,7 +5,7 @@
 [![Integration Tests](https://github.com/kuscu0/cooken/actions/workflows/node.js.yml/badge.svg)](https://github.com/kuscu0/cooken/actions/workflows/node.js.yml)
 [![codecov](https://codecov.io/gh/kuscu0/cooken/branch/server/graph/badge.svg?token=PU3RZQENHA)](https://codecov.io/gh/kuscu0/cooken)
 
-Cooken is a search engine for recipes. The main feature is finding recipes that can you cook only from the ingredients you have at home.
+Cooken is a search engine for recipes. The main feature is finding recipes that you can cook only from the ingredients you have at home.
 
 Branch overview:
 - [master: Documentation](https://github.com/kuscu0/cooken/tree/master)

@@ -7,6 +7,8 @@
 
 Cooken is a search engine for recipes. The main feature is finding recipes that you can cook only from the ingredients you have at home.
 
+[Demo Video](https://youtu.be/5CFGxHkpxYU)
+
 Branch overview:
 - [master: Documentation](https://github.com/ArthurHeitmann/cooken/tree/master)
 - [server: Nodejs express backend](https://github.com/ArthurHeitmann/cooken/tree/server)
